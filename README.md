@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-Currently just a student in computer science :) 
+not doing anything at the moment
 
 ## My GitHub stats
 
