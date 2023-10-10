@@ -9,8 +9,9 @@ I am currently spending time expanding my knowledge in WebGL, especially diving 
 
 Although most of my projects are private, here are some of my public projects:
 
-- [**`Web Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D website where you try to stack blocks on top of each other.
 - [**`Vanier Schedule Builder`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students.
+- [**`PinPoint`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map.
+- [**`Web Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D website where you try to stack blocks on top of each other.
 - [**`Van Customizer`**](https://github.com/Jxl-s/van-customizer): A 3D website where you can customize features of a van model.
 
 ---
