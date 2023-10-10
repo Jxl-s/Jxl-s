@@ -76,6 +76,8 @@ Although most of my projects are private, here are some of my public projects:
 ---
 ## My Stats
 
-![Jxl-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jxl-s&show_icons=true&theme=onedark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jxl-s&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxl-s&show_icons=true&theme=onedark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Jxl-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jxl-s&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxl-s&show_icons=true&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
