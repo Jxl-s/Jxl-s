@@ -74,10 +74,10 @@ Although most of my projects are private, here are some of my public projects:
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 ---
-## My Stats
+## 📊 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jxl-s&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Jxl-s's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jxl-s&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxl-s&show_icons=true&theme=tokyonight&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api//top-langs/?username=Jxl-s&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
