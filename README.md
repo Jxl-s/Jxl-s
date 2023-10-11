@@ -14,6 +14,9 @@ Although most of my projects are private, here are some of my public projects:
 - [**`Web Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D website where you try to stack blocks on top of each other.
 - [**`Van Customizer`**](https://github.com/Jxl-s/van-customizer): A 3D website where you can customize features of a van model.
 
+What I am currently maintaining/working on:
+- [**`Color Switcher`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels.
+
 ---
 ## 🛠 Languages & Tools
 
