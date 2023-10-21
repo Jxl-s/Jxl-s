@@ -1,4 +1,5 @@
 ## 👋 About Me
+![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)  
 
 Welcome to my profile! I am currently studying Computer Science, and I am passionate about web and software development.
 
@@ -9,14 +10,16 @@ I am currently spending time expanding my knowledge in WebGL, especially diving 
 
 Although most of my projects are private, here are some of my public projects:
 
+### Notable Projects
 - [**`Vanier Schedule Builder`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students.
 - [**`PinPoint`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map.
+- [**`WebGL Color Switcher`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels.
+- [**`WebGL "Blob" Audio Visualizer`**](https://github.com/Jxl-s/webgl-blob): A 3D website that showcases a blob shader on a sphere. It can also visualize audio input.
+
+### Other Projects
 - [**`WebGL Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D web game where you try to stack bricks on top of each other.
 - [**`WebGL Van Customizer`**](https://github.com/Jxl-s/van-customizer): A 3D website where you can customize features of a van model.
 - [**`WebGL Room`**](https://github.com/Jxl-s/my-webgl-room): A 3D model with baked textures of my room, with some interactive elements.
-
-What I am currently maintaining/working on:
-- [**`WebGL Color Switcher`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels.
 
 ---
 ## 🛠 Languages & Tools
