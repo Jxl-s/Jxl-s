@@ -13,9 +13,9 @@ Although most of my projects are private, here are some of my public projects:
 ### Notable Projects
 - [**`IoT Dashboard`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
 - [**`Vanier Schedule Builder`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
-- [**`PinPoint`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
 - [**`WebGL Color Switcher`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels, with React and react-three-fiber
-- [**`WebGL "Blob" Audio Visualizer`**](https://github.com/Jxl-s/webgl-blob): A 3D website that showcases a blob shader on a sphere. It can also visualize audio input., made with React and react-three-fiber
+- [**`Crimes API`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
+- [**`PinPoint`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
 
 ### Other Projects
 - [**`WebGL Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D web game where you try to stack bricks on top of each other.
