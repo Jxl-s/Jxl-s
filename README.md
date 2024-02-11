@@ -10,6 +10,9 @@ I am currently spending time expanding my knowledge in WebGL, especially diving 
 
 Although most of my projects are private, here are some of my public projects:
 
+### Currently working on
+- [**`3D eCommerce`**](https://github.com/Jxl-s/3d-ecommerce): An in-progress eCommerce system, which will feature a 3D product viewer (hopefully)
+
 ### Notable Projects
 - [**`IoT Dashboard`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
 - [**`Vanier Schedule Builder`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
