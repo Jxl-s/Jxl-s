@@ -6,6 +6,7 @@ Welcome to my profile! I am currently studying Computer Science, and I am passio
 I am currently spending time expanding my knowledge in WebGL, especially diving into technologies like Three.js and GLSL.
 
 ---
+
 ## 📝 My Public Projects
 
 Although most of my projects are private, here are some of my public projects:
@@ -21,6 +22,8 @@ Although most of my projects are private, here are some of my public projects:
 - [**`PinPoint`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
 
 ### Other Projects
+- [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
+- [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
 - [**`WebGL Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D web game where you try to stack bricks on top of each other.
 - [**`WebGL Van Customizer`**](https://github.com/Jxl-s/van-customizer): A 3D website where you can customize features of a van model.
 - [**`WebGL Room`**](https://github.com/Jxl-s/my-webgl-room): A 3D model with baked textures of my room, with some interactive elements.
