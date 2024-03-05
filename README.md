@@ -1,9 +1,9 @@
 ## 👋 About Me
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)  
 
-Welcome to my profile! I am currently studying Computer Science, and I am passionate about web and software development.
+Welcome to my profile! I am currently studying Computer Science, and I am passionate about web and software development. I also have a strong foundation in networking and game development.
 
-I am currently spending time expanding my knowledge in WebGL, especially diving into technologies like Three.js and GLSL.
+I am currently spending time expanding my knowledge in WebGL, especially diving into technologies like Three.js and GLSL, which complements my JavaScript and TypeScript proficiency.
 
 ---
 
@@ -13,6 +13,7 @@ Although most of my projects are private, here are some of my public projects:
 
 ### Currently working on
 - [**`3D eCommerce`**](https://github.com/Jxl-s/3d-ecommerce): An in-progress eCommerce system, which will feature a 3D product viewer (hopefully)
+- [**`Vanier Robotics 2024 Home Page`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which will be the home page for Vanier Robotics' 2024 website.
 
 ### Notable Projects
 - [**`IoT Dashboard`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
