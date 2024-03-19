@@ -29,6 +29,7 @@ Although most of my projects are private, here are some of my public projects:
 ### Fun Demonstrations
 - [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
 - [**`Blob Shader`**](https://github.com/Jxl-s/webgl-blob): A demonstration of a customizable 3D blob sphere, with GLSL shaders and microphone input.
+- [**`Moving Trains`**](https://github.com/Jxl-s/r3f-trains): A customizable and highly performant demonstration of trains moving in independant paths.
 
 ---
 ## 🛠 Languages & Tools
