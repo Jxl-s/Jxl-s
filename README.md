@@ -26,6 +26,10 @@ Although most of my projects are private, here are some of my public projects:
 - [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
 - [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
 
+### Fun Demonstrations
+- [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
+- [**`Blob Shader`**](https://github.com/Jxl-s/webgl-blob): A demonstration of a customizable 3D blob sphere, with GLSL shaders and microphone input.
+
 ---
 ## 🛠 Languages & Tools
 
