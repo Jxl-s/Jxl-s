@@ -13,10 +13,10 @@ Although most of my projects are private, here are some of my public projects:
 
 ### Currently working on
 - [**`3D eCommerce`**](https://github.com/Jxl-s/3d-ecommerce): An in-progress eCommerce system, which will feature a 3D product viewer (hopefully)
-- [**`Vanier Robotics 2024 Home Page`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which will be the home page for Vanier Robotics' 2024 website.
 
 ### Notable Projects
 - [**`IoT Dashboard`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
+- [**`Vanier Robotics 2024 Home Page`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which is the home page for Vanier Robotics' 2024 website.
 - [**`Vanier Schedule Builder`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
 - [**`WebGL Color Switcher`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels, with React and react-three-fiber
 - [**`Crimes API`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
@@ -25,9 +25,6 @@ Although most of my projects are private, here are some of my public projects:
 ### Other Projects
 - [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
 - [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
-- [**`WebGL Stacking Game`**](https://github.com/Jxl-s/web-stacking-game): A 3D web game where you try to stack bricks on top of each other.
-- [**`WebGL Van Customizer`**](https://github.com/Jxl-s/van-customizer): A 3D website where you can customize features of a van model.
-- [**`WebGL Room`**](https://github.com/Jxl-s/my-webgl-room): A 3D model with baked textures of my room, with some interactive elements.
 
 ---
 ## 🛠 Languages & Tools
