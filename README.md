@@ -1,29 +1,28 @@
 ## 👋 About Me
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)  
 
-Welcome to my profile! I am currently studying Computer Science, and I am passionate about web and software development. I also have a strong foundation in networking and game development.
+Welcome to my profile!
 
-I am currently spending time expanding my knowledge in WebGL, especially diving into technologies like Three.js and GLSL, which complements my JavaScript and TypeScript proficiency.
+I am currently studying Computer Science, and I am passionate about web and software development. Mainly, I am a JavaScript, TypeScript, React, and 3D enthusiast.
 
 ---
 
 ## 📝 My Public Projects
 
-Although most of my projects are private, here are some of my public projects:
-
 ### Currently working on
 
-- [**`Algorithm Visualizations`**](https://github.com/Jxl-s/algo-visualizations): A website with high-performance, to help students understand how some common algorithms work, such as searching and sorting.
-- [**`3D eCommerce`**](https://github.com/Jxl-s/3d-ecommerce): An in-progress eCommerce system, which will feature a 3D product viewer (hopefully)
+- [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
+<!-- - [**`🛒 3D eCommerce 🛒`**](https://github.com/Jxl-s/3d-ecommerce): An in-progress eCommerce system, which will feature a 3D product viewer (hopefully) -->
 
 ### Notable Projects
 
-- [**`IoT Dashboard`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
-- [**`Vanier Robotics 2024 Home Page`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which is the home page for Vanier Robotics' 2024 website.
-- [**`Vanier Schedule Builder`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
-- [**`WebGL Color Switcher`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels, with React and react-three-fiber
-- [**`Crimes API`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
-- [**`PinPoint`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
+- [**`📡 IoT Dashboard 📡`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
+- [**`🤖 Vanier Robotics 2024 🤖`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which is the home page for Vanier Robotics' 2024 website.
+- [**`🗓 Vanier Schedule Builder 🗓`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
+- [**`📊 Algorithm Visualizations 📊`**](https://github.com/Jxl-s/algo-visualizations): A highly performant 3D website, to help students understand how some common searching and sorting algorithms work.
+- [**`🔴 WebGL Color Switcher 🔵`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels, with React and react-three-fiber
+- [**`🔪 Crimes API 🔪`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
+- [**`📌 PinPoint 📌`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
 
 ### Other Projects
 - [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
