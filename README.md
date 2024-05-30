@@ -12,7 +12,7 @@ I am currently studying Computer Science, and I am passionate about web and soft
 ### Currently working on
 
 - [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
-<!-- - [**`🛒 3D eCommerce 🛒`**](https://github.com/Jxl-s/3d-ecommerce): An in-progress eCommerce system, which will feature a 3D product viewer (hopefully) -->
+- [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
 
 ### Notable Projects
 
@@ -53,6 +53,7 @@ I am currently studying Computer Science, and I am passionate about web and soft
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" />
 
 ### Full-Stack
 
