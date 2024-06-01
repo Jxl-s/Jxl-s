@@ -27,12 +27,12 @@ I am currently studying Computer Science, and I am passionate about web and soft
 
 ### Other Projects
 
--   [**`Discord Casino`**](https://github.com/Jxl-s/discord-casino): A voice channel Discord activity developed in SvelteKit with Discord's Embedded App SDK, to simulate basic casino games.
 -   [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
 -   [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
 
 ### Fun Demonstrations
 
+-   [**`Discord Casino`**](https://github.com/Jxl-s/discord-casino): A voice channel Discord activity developed in SvelteKit with Discord's Embedded App SDK, to simulate basic casino games.
 -   [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
 -   [**`Blob Shader`**](https://github.com/Jxl-s/webgl-blob): A demonstration of a customizable 3D blob sphere, with GLSL shaders and microphone input.
 -   [**`Moving Trains`**](https://github.com/Jxl-s/r3f-trains): A customizable and highly performant demonstration of trains moving in independant paths.
