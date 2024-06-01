@@ -1,5 +1,6 @@
 ## 👋 About Me
-![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)  
+
+![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)
 
 Welcome to my profile!
 
@@ -11,29 +12,33 @@ I am currently studying Computer Science, and I am passionate about web and soft
 
 ### Currently working on
 
-- [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
-- [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
+-   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
+-   [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
 
 ### Notable Projects
 
-- [**`📡 IoT Dashboard 📡`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
-- [**`🤖 Vanier Robotics 2024 🤖`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which is the home page for Vanier Robotics' 2024 website.
-- [**`🗓 Vanier Schedule Builder 🗓`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
-- [**`📊 Algorithm Visualizations 📊`**](https://github.com/Jxl-s/algo-visualizations): A highly performant 3D website, to help students understand how some common searching and sorting algorithms work.
-- [**`🔴 WebGL Color Switcher 🔵`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels, with React and react-three-fiber
-- [**`🔪 Crimes API 🔪`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
-- [**`📌 PinPoint 📌`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
+-   [**`📡 IoT Dashboard 📡`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made without a web framework.
+-   [**`🤖 Vanier Robotics 2024 🤖`**](https://github.com/Jxl-s/vanier-robotics-2024-home): A 3D experience featuring interactions, which is the home page for Vanier Robotics' 2024 website.
+-   [**`🗓 Vanier Schedule Builder 🗓`**](https://github.com/Jxl-s/vanier-courses-api): A web application that allows building a mock schedule for Vanier College students, designed with React.
+-   [**`📊 Algorithm Visualizations 📊`**](https://github.com/Jxl-s/algo-visualizations): A highly performant 3D website, to help students understand how some common searching and sorting algorithms work.
+-   [**`🔴 WebGL Color Switcher 🔵`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels, with React and react-three-fiber
+-   [**`🔪 Crimes API 🔪`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
+-   [**`📌 PinPoint 📌`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter.
 
 ### Other Projects
-- [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
-- [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
+
+-   [**`Discord Casino`**](https://github.com/Jxl-s/discord-casino): A voice channel Discord activity developed in SvelteKit with Discord's Embedded App SDK, to simulate basic casino games.
+-   [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
+-   [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
 
 ### Fun Demonstrations
-- [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
-- [**`Blob Shader`**](https://github.com/Jxl-s/webgl-blob): A demonstration of a customizable 3D blob sphere, with GLSL shaders and microphone input.
-- [**`Moving Trains`**](https://github.com/Jxl-s/r3f-trains): A customizable and highly performant demonstration of trains moving in independant paths.
+
+-   [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
+-   [**`Blob Shader`**](https://github.com/Jxl-s/webgl-blob): A demonstration of a customizable 3D blob sphere, with GLSL shaders and microphone input.
+-   [**`Moving Trains`**](https://github.com/Jxl-s/r3f-trains): A customizable and highly performant demonstration of trains moving in independant paths.
 
 ---
+
 ## 🛠 Languages & Tools
 
 ### Back-End
@@ -95,6 +100,7 @@ I am currently studying Computer Science, and I am passionate about web and soft
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
 ---
+
 ## 📊 My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jxl-s&theme=tokyonight)](https://git.io/streak-stats)
