@@ -4,7 +4,7 @@
 
 Welcome to my profile!
 
-I am currently studying Computer Science, and I am passionate about web and software development. Mainly, I am a JavaScript, TypeScript, React, and 3D enthusiast.
+I am currently studying Computer Science, and I am passionate about web and software development. Mainly, I am a Web and 3D enthusiast, and I'm always open to learning new technologies.
 
 ---
 
