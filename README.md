@@ -30,6 +30,7 @@ I am currently studying Computer Science, and I am passionate about web and soft
 ### Other Projects
 
 -   [**`Lua Join`**](https://github.com/Jxl-s/luajoin): A program in Rust, to bundle Lua files together.
+-   [**`LeetCode Rich Presence`**](https://github.com/Jxl-s/leetcode-rich-presence): A Discord Rich Presence implementation for LeetCode (browse extension).
 -   [**`Ghostly Echoes`**](https://github.com/Jxl-s/ghostly-echoes): a 3D Unity game in a school horror setting.
 
 ### Fun Demonstrations
