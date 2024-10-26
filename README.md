@@ -16,6 +16,7 @@ I am currently studying Computer Science, and I am passionate about web and soft
 
 -   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
 -   [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
+-   [**`📚 YeetCode 📚`**](https://github.com/Jxl-s/yeetcode): A full-stack LeetCode clone with authentication and built on SvelteKit and Nest.JS, with code-judging through Judge0.
 
 ### Notable Projects
 
