@@ -1,4 +1,4 @@
-# <center>[Hello! 👋 I'm Jia](https://jiaxuan-li.com)</center>
+# [Hello! 👋 I'm Jia](https://jiaxuan-li.com)
 
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)
 
