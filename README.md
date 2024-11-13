@@ -30,6 +30,7 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 
 ### 🎉 Fun Demonstrations 🎉
 
+-   [**`Roblox Neural Network`**](https://github.com/Jxl-s/nn-roblox): A neural network library developed within Roblox (written in 2021), for personal projects and learning purposes.
 -   [**`LeetCode Rich Presence`**](https://github.com/Jxl-s/leetcode-rich-presence): A Discord Rich Presence implementation for LeetCode (browser extension + local server).
 -   [**`Discord Casino`**](https://github.com/Jxl-s/discord-casino): A voice channel Discord activity developed in SvelteKit with Discord's Embedded App SDK, to simulate basic casino games.
 -   [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
