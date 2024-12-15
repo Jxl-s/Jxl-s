@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)
 
-I am currently studying Computer Science, and I am passionate about software development. I am mainly a Web and 3D enthusiast, and I'm always open to learning new technologies.
+I am currently studying Computer Science, and I am passionate about software development. I am mainly a Web enthusiast, and I'm always open to learning new technologies.
+
+More recently, I've been getting more into 3D modeling, AR & XR, machine learning, and mobile development.
 
 ---
 
