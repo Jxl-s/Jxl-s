@@ -16,6 +16,10 @@ More recently, I've been getting more into 3D modeling, AR & XR, machine learnin
 -   [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
 -   [**`📚 YeetCode 📚`**](https://github.com/Jxl-s/yeetcode): A full-stack LeetCode clone with authentication and built on SvelteKit and Nest.JS, with code-judging through Judge0.
 
+### 🤓 Hackathon Projects 🤓
+
+-   [**`📈 Fhart 📉`**](https://github.com/g0DTuRtI3/mchacks2025): A visually appealing stock data visualizer, with LLM integrations to analyze stock variations through natural events. [Click for Devpost](https://devpost.com/software/fhart).
+
 ### 😎 Cool Projects 😎
 
 -   [**`📡 IoT Dashboard 📡`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made with vanilla HTML, JavaScript, and CSS.
