@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)
 
-I am currently studying Computer Science, and I am passionate about software development. I am mainly a Web enthusiast, and I'm always open to learning new technologies.
+I am currently studying Computer Science, and I am passionate about software development. I mainly enjoy developing interactive experiences on the web, and I'm always open to learning new technologies. Programming has been my main hobby since I was young.
 
-More recently, I've been getting more into 3D modeling, AR & XR, machine learning, and mobile development.
+More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, machine learning, LLMs, and mobile development.
 
 ---
 
@@ -18,7 +18,7 @@ More recently, I've been getting more into 3D modeling, AR & XR, machine learnin
 
 ### 🤓 Hackathon Projects 🤓
 
--   [**`📈 Fhart 📉`**](https://github.com/g0DTuRtI3/mchacks2025): A visually appealing stock data visualizer, with LLM integrations to analyze stock variations through natural events. [Click for Devpost](https://devpost.com/software/fhart).
+-   [**`📈 Fhart 📉`**](https://github.com/g0DTuRtI3/mchacks2025): A web app with a focus on the UI design, with LLM integrations to analyze stock variations through natural events. [Click for Devpost](https://devpost.com/software/fhart).
 
 ### 😎 Cool Projects 😎
 
@@ -55,6 +55,7 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🎨 Front-End 🎨
 
@@ -74,6 +75,7 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 📝 Scripting 📝
 
@@ -92,6 +94,7 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### 📱 Application Development 📱
 
