@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)
 
-I am currently studying Computer Science, and I am passionate about software development. I mainly enjoy developing interactive experiences on the web, and I'm always open to learning new technologies. Programming has been my main hobby since I was young.
+I am currently studying Computer Science, and I am passionate about software development. I mainly enjoy developing interactive experiences on the web, and I'm always open to learning new technologies.
 
 More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, machine learning, LLMs, and mobile development.
 
@@ -17,8 +17,8 @@ More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, mac
 -   [**`📚 YeetCode 📚`**](https://github.com/Jxl-s/yeetcode): A full-stack LeetCode clone with authentication and built on SvelteKit and Nest.JS, with code-judging through Judge0.
 
 ### 🤓 Hackathons 🤓
--   [**`🦾 LeetWrite 🦾`**](https://github.com/Jxl-s/ConUHacksIX): A "reverse-leetcode", where users write the problems instead of the code. Won **2nd place** as a solo team, among **800+** participants. [Click for Devpost](https://devpost.com/software/leetwrite).
--   [**`📈 Fhart 📉`**](https://github.com/g0DTuRtI3/mchacks2025): A web app with a focus on the UI design, with LLM integrations to analyze stock variations through natural events. [Click for Devpost](https://devpost.com/software/fhart).
+-   [🤠 ConUHacks IX (2025)](https://www.conuhacks.io/) - [**`🦾 LeetWrite 🦾`**](https://github.com/Jxl-s/ConUHacksIX): A "reverse-leetcode", where users write the problems instead of the code. Won **2nd place** as a solo team, among **800+** participants. [Click for Devpost](https://devpost.com/software/leetwrite).
+-   [🐥 McHacks 12 (2025)](https://mchacks.ca/) - [**`📈 Fhart 📉`**](https://github.com/g0DTuRtI3/mchacks2025): A web app with a focus on the UI design, with LLM integrations to analyze stock variations through natural events. [Click for Devpost](https://devpost.com/software/fhart).
 
 ### 😎 Cool Projects 😎
 
