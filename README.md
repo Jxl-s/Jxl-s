@@ -13,8 +13,7 @@ More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, mac
 ### 👨‍💻 Currently working on 👨‍💻
 
 -   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
--   [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
--   [**`📚 YeetCode 📚`**](https://github.com/Jxl-s/yeetcode): A full-stack LeetCode clone with authentication and built on SvelteKit and Nest.JS, with code-judging through Judge0.
+-   ... and other private projects!
 
 ### 🤓 Hackathons 🤓
 -   [🤠 ConUHacks IX (2025)](https://www.conuhacks.io/) - [**`🦾 LeetWrite 🦾`**](https://github.com/Jxl-s/ConUHacksIX): A "reverse-leetcode", where users write the problems instead of the code. Won **2nd place** as a solo team, among **800+** participants. [Click for Devpost](https://devpost.com/software/leetwrite).
@@ -22,6 +21,8 @@ More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, mac
 
 ### 😎 Cool Projects 😎
 
+-   [**`📝 Resume Builder 📝`**](https://github.com/Jxl-s/resume-builder): A resume builder web application which implements LLMs to generate AI recommentations for bullet points.
+-   [**`📚 YeetCode 📚`**](https://github.com/Jxl-s/yeetcode): A full-stack LeetCode clone with authentication and built on SvelteKit and Nest.JS, with code-judging through Judge0.
 -   [**`📡 IoT Dashboard 📡`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made with vanilla HTML, JavaScript, and CSS.
 -   [**`🤖 Vanier Robotics 2024 🤖`**](https://github.com/Jxl-s/vanier-robotics-2024-home): The 3D home page for Vanier Robotics' 2024 website, which won 2nd place in the CRC Robotics competition.
 -   [**`🗓 Vanier Schedule Builder 🗓`**](https://github.com/Jxl-s/vanier-courses-api):
