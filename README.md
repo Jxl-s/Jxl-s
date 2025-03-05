@@ -16,7 +16,7 @@ More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, mac
 -   ... and other private projects!
 
 ### 🤓 Hackathons 🤓
--   [🤠 ConUHacks IX (2025)](https://www.conuhacks.io/) - [**`🦾 LeetWrite 🦾`**](https://github.com/Jxl-s/ConUHacksIX): A "reverse-leetcode", where users write the problems instead of the code. Won **2nd place** as a solo team, among **800+** participants. [Click for Devpost](https://devpost.com/software/leetwrite).
+-   [**`🦾 LeetWrite 🦾`**](https://github.com/Jxl-s/ConUHacksIX): A "reverse-leetcode", where users write the problems instead of the code. Won **2nd place** as a solo team at [ConUHacks IX](https://conuhacks-ix.devpost.com), among **800+** participants. [Click for Devpost](https://devpost.com/software/leetwrite).
 <!---   [🐥 McHacks 12 (2025)](https://mchacks.ca/) - [**`📈 Fhart 📉`**](https://github.com/g0DTuRtI3/mchacks2025): A web app with a focus on the UI design, with LLM integrations to analyze stock variations through natural events. [Click for Devpost](https://devpost.com/software/fhart).-->
 
 ### 😎 Cool Projects 😎
