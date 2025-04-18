@@ -1,10 +1,10 @@
-# [Hello! 👋 I'm Jia](https://jiaxuan-li.com)
+# [Hello! 👋 I'm Jia](https://www.jiaxuan.li)
 
 ![](https://komarev.com/ghpvc/?username=Jxl-s&color=green&stle=for-the-badge)
 
-I am currently studying Computer Science, and I am passionate about software development. I mainly enjoy developing interactive experiences on the web, and I'm always open to learning new technologies.
+I am currently studying Computer Science, and I am passionate about software development. I mainly enjoy building applications, and I'm always open to learning new technologies.
 
-More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, machine learning, LLMs, and mobile development.
+Currently, I'm exploring web graphics, machine learning, grinding LeetCode, and I'm hopping on the hype train of AI/ML and LLMs.
 
 ---
 
@@ -12,7 +12,7 @@ More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, mac
 
 ### 👨‍💻 Currently working on 👨‍💻
 
--   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan-li.com.
+-   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan.li
 -   ... and other private projects!
 
 ### 🤓 Hackathons 🤓
@@ -25,10 +25,7 @@ More recently, I've been getting more into 3D modeling, 3D web, web AR & XR, mac
 -   [**`📚 YeetCode 📚`**](https://github.com/Jxl-s/yeetcode): A full-stack LeetCode clone with authentication and built on SvelteKit and Nest.JS, with code-judging through Judge0.
 -   [**`📡 IoT Dashboard 📡`**](https://github.com/Jxl-s/iot-dashboard): A responsive and intuitive web application that allows users to monitor and control IoT devices, made with vanilla HTML, JavaScript, and CSS.
 -   [**`🤖 Vanier Robotics 2024 🤖`**](https://github.com/Jxl-s/vanier-robotics-2024-home): The 3D home page for Vanier Robotics' 2024 website, which won 2nd place in the CRC Robotics competition.
--   [**`🗓 Vanier Schedule Builder 🗓`**](https://github.com/Jxl-s/vanier-courses-api):
-A web application for automatically building schedules for Vanier College students, designed with React and Rust.
--   [**`📊 Algorithm Visualizations 📊`**](https://github.com/Jxl-s/algo-visualizations): 
-A collection of highly-performant 3D visualizations of algorithms, implemented using React and react-three-fiber.
+-   [**`🗓 Vanier Schedule Builder 🗓`**](https://github.com/Jxl-s/vanier-courses-api): A web application for automatically building schedules for Vanier College students, designed with React and Rust.
 -   [**`🔴 WebGL Color Switcher 🔵`**](https://github.com/Jxl-s/r3f-color-switcher): A 3D web game where you switch colors to pass levels and obstacles, made with React and react-three-fiber.
 -   [**`🔪 Crimes API 🔪`**](https://github.com/Jxl-s/crimes-api): A RESTful API that provides information about crimes in Los Angeles, made with PHP and Slim.
 -   [**`📌 PinPoint 📌`**](https://github.com/Jxl-s/pinpoint): A mobile application that allows users to share pins on a map, made with Flutter and Firebase, by integrating Google Maps' API.
@@ -43,6 +40,7 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 -   [**`Multi-window Canvas`**](https://github.com/Jxl-s/multi-window-canvas): A demonstration of synchronized communication on multiple windows, through the browser's local storage.
 -   [**`Blob Shader`**](https://github.com/Jxl-s/webgl-blob): A demonstration of a customizable 3D blob sphere, with GLSL shaders and microphone input.
 -   [**`Moving Trains`**](https://github.com/Jxl-s/r3f-trains): A customizable and highly performant demonstration of trains moving in independant paths.
+-   [**`Algorithm Visualizations`**](https://github.com/Jxl-s/algo-visualizations): A collection of highly-performant 3D visualizations of algorithms, implemented using React and react-three-fiber.
 
 ---
 
@@ -57,6 +55,8 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
 ### 🎨 Front-End 🎨
 
@@ -78,9 +78,13 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 ![SvelteKit](https://img.shields.io/badge/sveltekit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-### 📝 Scripting 📝
+### 📝 Other Languages 📝
 
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
 
 ### 🏃‍♂️‍➡️ Operating Systems & Prototyping Platforms 🏃‍♂️‍➡️
 
@@ -105,7 +109,7 @@ A collection of highly-performant 3D visualizations of algorithms, implemented u
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-### 🎈 Other Languages & Frameworks 🎈
+### 🎈 Other 🎈
 
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 
