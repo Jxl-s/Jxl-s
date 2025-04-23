@@ -12,7 +12,8 @@ Currently, I'm exploring web graphics, machine learning, grinding LeetCode, and 
 
 ### 👨‍💻 Currently working on 👨‍💻
 
--   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://jiaxuan.li
+-   [**`🍎 Portfolio 2024 🥟`**](https://github.com/Jxl-s/portfolio-2024): My new portfolio for 2024, featuring an interactive experience. Please check it out at https://www.jiaxuan.li
+-   [**`Portfolio 2025`**](https://github.com/Jxl-s/portfolio-2025): A new improved version of last year's portfolio website, but it's a work in progress. You can peek at it at https://2025.jiaxuan.li
 -   ... and other private projects!
 
 ### 🤓 Hackathons 🤓
