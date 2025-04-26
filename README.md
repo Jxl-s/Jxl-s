@@ -4,7 +4,7 @@
 
 I am currently studying Computer Science, and I am passionate about software development. I mainly enjoy building applications, and I'm always open to learning new technologies.
 
-Currently, I'm exploring web graphics, machine learning, grinding LeetCode, and I'm hopping on the hype train of AI/ML and LLMs.
+Right now, I'm exploring web graphics, machine learning, grinding LeetCode, and I'm hopping on the hype train of AI/ML and LLMs.
 
 ---
 
