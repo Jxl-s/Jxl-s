@@ -3,7 +3,7 @@
 ![Profile
 Views](https://komarev.com/ghpvc/?username=Jxl-s&color=green&style=for-the-badge)
 
-Welcome to my GitHub profile! I'm passionate about building things and learning
+Welcome to my GitHub profile! I'm passionate about building and learning
 new technologies.
 
 You might notice my all-green contribution graph! I try to
@@ -11,12 +11,12 @@ stay consistent with my projects and my learning everyday.
 
 ## 🚀 What I'm Up To
 
-Currently exploring and diving deep into computer graphics on the web, Elixir,
+I'm currently diving deeper into computer graphics, Elixir,
 DevOps, machine learning, and LLMs.
 
 ## 🛠️ Featured Projects
 
-### 🍎 Portfolio 2024
+### Portfolio 2024
 
 **[📁 Source Code](https://github.com/Jxl-s/portfolio-2024) | [🔗 Live
 Site](https://www.jiaxuan.li)**
@@ -27,15 +27,14 @@ showcase of my creative vision.
 
 ## 🏆 Hackathons
 
-### 🦾 LeetWrite (ConUHacks IX - 2nd Place Winner)
+### LeetWrite (ConUHacks IX 🥈 2nd Place Winner)
 
-**[📁 Source Code](https://github.com/Jxl-s/ConUHacksIX) | [🔗 Devpost](https://devpost.com/software/leetwrite)**
+**[📁 Source Code](https://github.com/Jxl-s/ConUHacksIX) | [🔗 Devpost](https://devpost.com/software/leetwrite) | [👥 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7294755566944419841)**
 
 - A "reverse-leetcode" platform where users describe code instead of solving
-problems.
-- A creative twist on traditional competitive programming.
+problems. It's a creative twist on traditional competitive programming.
 - **2nd Place** at ConUHacks IX, with a **solo submission** among **800+
-participants** and **180+** projects
+participants** and **180+ projects**, winning a **Meta Quest 3S** headset.
 
 ## 📈 GitHub Stats
 
