@@ -4,14 +4,7 @@
 Views](https://komarev.com/ghpvc/?username=Jxl-s&color=green&style=for-the-badge)
 
 Welcome to my GitHub profile! I'm passionate about building and learning
-new technologies.
-
-You might notice my all-green contribution graph! I try to
-stay consistent with my projects and my learning everyday.
-
-## 🚀 What I'm Up To
-
-I'm currently diving deeper into computer graphics, Elixir,
+new technologies. I'm currently diving deeper into computer graphics, Elixir,
 DevOps, machine learning, and LLMs.
 
 ## 🛠️ Featured Projects
