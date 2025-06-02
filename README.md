@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about building and learning
 new technologies. I'm currently diving deeper into computer graphics, Elixir,
 DevOps, machine learning, and LLMs.
 
-## 🛠️ Featured Projects
+## 🛠️ Current Projects
 
 ### Portfolio 2024
 
