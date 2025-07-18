@@ -29,11 +29,6 @@ problems. It's a creative twist on traditional competitive programming.
 - **2nd Place** at ConUHacks IX, with a **solo submission** among **800+
 participants** and **180+ projects**, winning a **Meta Quest 3S** headset.
 
-## 📈 GitHub Stats
-
-[![GitHub
-Streak](https://streak-stats.demolab.com/?user=Jxl-s&theme=tokyonight)](https://git.io/streak-stats)
-
 ## 💫 Let's Connect!
 
 Always interested in collaborating on exciting projects or discussing new
