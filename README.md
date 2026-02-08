@@ -1,33 +1,10 @@
 # Hey there! 👋 I'm Jia
 
-![Profile
-Views](https://komarev.com/ghpvc/?username=Jxl-s&color=green&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Jxl-s&color=green&style=for-the-badge)
 
-Welcome to my GitHub profile! I'm passionate about building and learning
-new technologies. I'm currently diving deeper into computer graphics, Elixir,
-DevOps, machine learning, and LLMs.
+Welcome to my GitHub profile! I'm passionate about everything in technology, but some of my niche interests include Elixir (the language), and web 3D graphics (check out my personal website, I'll work on a new one soon https://www.jiaxuan.li)
 
-## 🛠️ Current Projects
-
-### Portfolio 2024
-
-**[📁 Source Code](https://github.com/Jxl-s/portfolio-2024) | [🔗 Live
-Site](https://www.jiaxuan.li)**
-
-- My first portfolio website featuring both **2D** and **3D** experiences, as a
-showcase of my creative vision.
-- I'm currently working on a new version that will still feature a 3D experience, that is more user-friendly.
-
-## 🏆 Hackathons
-
-### LeetWrite (ConUHacks IX 🥈 2nd Place Winner)
-
-**[📁 Source Code](https://github.com/Jxl-s/ConUHacksIX) | [🔗 Devpost](https://devpost.com/software/leetwrite) | [👥 LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7294755566944419841)**
-
-- A "reverse-leetcode" platform where users describe code instead of solving
-problems. It's a creative twist on traditional competitive programming.
-- **2nd Place** at ConUHacks IX, with a **solo submission** among **800+
-participants** and **180+ projects**, winning a **Meta Quest 3S** headset.
+As well, I'm currently interested in full-stack development, UI/UX design, distributed systems, and AI.
 
 ## 💫 Let's Connect!
 
